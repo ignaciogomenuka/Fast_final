@@ -20,7 +20,7 @@ The application of AI in sports analysis is still in its nascent stages, particu
 
 ## Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/T12SivSE81I&ab_channel=Ignacio.jpg)](https://www.youtube.com/watch?v=T12SivSE81I&ab_channel=Ignacio)
+[![Fast Analyst for handball](https://img.youtube.com/vi/T12SivSE81I&ab_channel=Ignacio/cover.jpg)](https://www.youtube.com/watch?v=T12SivSE81I&ab_channel=Ignacio)
 
 ## Results & Future Work
 The system successfully demonstrated the capability to detect goals with significant accuracy, considerably cutting down manual analysis time. Future work involves improving the model with additional data and potentially exploring cloud deployment for easier access and scalability.
