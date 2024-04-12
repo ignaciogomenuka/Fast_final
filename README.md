@@ -18,6 +18,10 @@ The application of AI in sports analysis is still in its nascent stages, particu
 - **Model Training**: Trained on an initial dataset of 3000 images, achieving 60-70% accuracy.
 - **Integration and Testing**: The model was integrated into a backend framework ready for further development and testing.
 
+## Demo
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/T12SivSE81/0.jpg)](https://www.youtube.com/watch?v=T12SivSE81)
+
 ## Results & Future Work
 The system successfully demonstrated the capability to detect goals with significant accuracy, considerably cutting down manual analysis time. Future work involves improving the model with additional data and potentially exploring cloud deployment for easier access and scalability.
 
