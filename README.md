@@ -20,6 +20,8 @@ The application of AI in sports analysis is still in its nascent stages, particu
 
 ## Demo
 
+<iframe width="1903" height="796" src="https://www.youtube.com/embed/T12SivSE81I" title="Fast Analyst for Handball | Lewagon Data Science bootcamp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [![Fast Analyst for handball](https://img.youtube.com/vi/T12SivSE81I&ab_channel=Ignacio/cover.jpg)](https://www.youtube.com/watch?v=T12SivSE81I&ab_channel=Ignacio)
 
 ## Results & Future Work
