@@ -25,6 +25,9 @@ The application of AI in sports analysis is still in its nascent stages, particu
 ## Results & Future Work
 The system successfully demonstrated the capability to detect goals with significant accuracy, considerably cutting down manual analysis time. Future work involves improving the model with additional data and potentially exploring cloud deployment for easier access and scalability.
 
+## Interface
+
+[![Fast Analyst for handball](https://ibb.co/s3yd2mn)]
 
 ## Further Information
 For more information or inquiries, feel free to contact me through [my GitHub profile](https://github.com/FelipeCoder23).
