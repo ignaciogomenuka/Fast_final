@@ -27,7 +27,7 @@ The system successfully demonstrated the capability to detect goals with signifi
 
 ## Interface
 
-![image](https://ibb.co/s3yd2mn)
+![image](https://github.com/ignaciogomenuka/Fast_final/blob/main/demo.png?raw=true)
 
 ## Further Information
 For more information or inquiries, feel free to contact me through [my GitHub profile](https://github.com/FelipeCoder23).
