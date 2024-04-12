@@ -10,6 +10,9 @@ The application of AI in sports analysis is still in its nascent stages, particu
 - **DeepSORT**: For enhanced player and ball tracking.
 - **FastAPI**: For a robust and efficient API.
 
+- ![image](https://github.com/ignaciogomenuka/Fast_final/assets/103946112/4c147c09-eced-47d8-bdd9-c03fcf58f642)
+
+
 ## Development Process
 - **Data Collection**: Manually gathered and labeled handball match clips to train the model.
 - **Model Training**: Trained on an initial dataset of 3000 images, achieving 60-70% accuracy.
